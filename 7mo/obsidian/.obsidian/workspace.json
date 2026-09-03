@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "969b88d86c7039bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c72fa97c8d9acd3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c98060e9263033",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Apuntes/Maquinas Electricas/Transformers.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Transformers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "852fc1534eaa96da",
+    "type": "split",
+    "children": [
+      {
+        "id": "d02eb4c8d7b43d4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9106cab462042c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc54543557e222d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ff767a570abfa164",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48250e3550b4aa01",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8c129404e1c58af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f0f2aeef0cd9366",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Apuntes/Maquinas Electricas/Maquinas Eléctricas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "73e65e0a73f6e4d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Apuntes/Maquinas Electricas/Maquinas Eléctricas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4dd29d90d2d9cda3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "387c1fb0c61ff399",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "923979bc0b41576d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Apuntes/Maquinas Electricas/Maquinas Eléctricas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "xournalpp:Create new Xournal++ note": false
+    }
+  },
+  "active": "17c98060e9263033",
+  "lastOpenFiles": [
+    "Apuntes/Maquinas Electricas/Maquinas Eléctricas.md",
+    "Apuntes/OPAMPS/Amplificador operacional.pdf",
+    "Apuntes/OPAMPS/Amplificador operacional.xopp~",
+    "Apuntes/OPAMPS/OPAmps.md",
+    "Apuntes/Maquinas Electricas/Transformers.pdf",
+    "Apuntes/OPAMPS/PARDIFERENCIAL.pdf",
+    "Apuntes/Maquinas Electricas/Transformers.xopp~",
+    "Apuntes/OPAMPS/Amplificador operacional.xopp",
+    "Apuntes/OPAMPS/PARDIFERENCIAL.xopp~",
+    "Apuntes/Sistemas de com Analogicos/Ejemplo laplace RC.pdf",
+    "Apuntes/Sistemas de com Analogicos/Ejemplo laplace RC.xopp~",
+    "Apuntes/Sistemas de com Analogicos/Espectro de una señal y análisis en frecuencia.md",
+    "Apuntes/Sistemas de com Analogicos/Ejemplo laplace RC.xopp",
+    "Apuntes/Sistemas de com Analogicos/TRANSDUCTORES.md",
+    "Apuntes/Sistemas de com Analogicos/POTENCIA ACÚSTICA(pendiente).md",
+    "Apuntes/Sistemas de com Analogicos/Audio Analógico.md",
+    "Apuntes/Intrumentacion/La instrumentacion se encarga de del procesamiento y acondicionamiento de señales.md",
+    "Apuntes/Pasted image 20260824125047.png",
+    "Apuntes/Pasted image 20260824125040.png"
+  ]
+}

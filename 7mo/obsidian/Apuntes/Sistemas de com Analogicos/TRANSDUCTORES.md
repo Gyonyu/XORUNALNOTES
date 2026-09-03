@@ -23,4 +23,34 @@ La conversión de energía de una variable física a señales eléctricas (y vic
 		
 		C=E*d*A epsilon del material, distancia y area del capacitor
 		Mas sensible y respuesta en frecuencia mas plana y mayor fidelidad.
-		
+
+Imán permanente
+
+
+
+Los principales patrones de respuesta de un micrófono son:
+
+-Omnidireccional
+-Cardioide
+-Supercardioide
+
+	Bocinas y altavoces:
+		El altavoz realiza la conversión inversa, transforma señales eléctricas en acústicas.
+
+		-Cono
+		-Bobina mivil
+		-Imán permanente
+
+		Parámetros:
+			Impedancia nominal:
+			-4 ohms
+			-8 ohms
+			-16 ohms 
+			
+			Potencia soportada:
+			Woofer-bajas frecuencias
+			midrange-Frecuencias medias
+			Tweeter-Frecuencias altas
+			Subwoofer-Frecuencias muy bajas
+			
+	
