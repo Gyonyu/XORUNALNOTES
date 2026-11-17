@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c72fa97c8d9acd3f",
+        "id": "dde0da9a94c4a655",
         "type": "tabs",
         "children": [
           {
-            "id": "17c98060e9263033",
+            "id": "fcd6b24f52e70eb9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Apuntes/Maquinas Electricas/Transformers.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Transformers"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -61,24 +59,9 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "ff767a570abfa164",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,24 +171,24 @@
       "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "17c98060e9263033",
+  "active": "fcd6b24f52e70eb9",
   "lastOpenFiles": [
-    "Apuntes/Maquinas Electricas/Maquinas Eléctricas.md",
-    "Apuntes/OPAMPS/Amplificador operacional.pdf",
-    "Apuntes/OPAMPS/Amplificador operacional.xopp~",
+    "Apuntes/Sistemas de com Analogicos/TRANSDUCTORES.md",
+    "Apuntes/Sistemas de com Analogicos/Filtros.pdf",
+    "Apuntes/Sistemas de com Analogicos/POTENCIA ACÚSTICA(pendiente).md",
+    "Apuntes/Sistemas de com Analogicos/Espectro de una señal y análisis en frecuencia.md",
+    "Apuntes/Sistemas de com Analogicos/Ejemplo laplace RC.pdf",
+    "Apuntes/Sistemas de com Analogicos/Audio Analógico.md",
     "Apuntes/OPAMPS/OPAmps.md",
-    "Apuntes/Maquinas Electricas/Transformers.pdf",
     "Apuntes/OPAMPS/PARDIFERENCIAL.pdf",
+    "Apuntes/OPAMPS/Amplificador operacional.pdf",
+    "Apuntes/Maquinas Electricas/Transformers.pdf",
+    "Apuntes/Sistemas de com Analogicos/FOURIER.pdf",
+    "Apuntes/Maquinas Electricas/Maquinas Eléctricas.md",
+    "Apuntes/OPAMPS/Amplificador operacional.xopp~",
     "Apuntes/Maquinas Electricas/Transformers.xopp~",
     "Apuntes/OPAMPS/Amplificador operacional.xopp",
     "Apuntes/OPAMPS/PARDIFERENCIAL.xopp~",
-    "Apuntes/Sistemas de com Analogicos/Ejemplo laplace RC.pdf",
-    "Apuntes/Sistemas de com Analogicos/Ejemplo laplace RC.xopp~",
-    "Apuntes/Sistemas de com Analogicos/Espectro de una señal y análisis en frecuencia.md",
-    "Apuntes/Sistemas de com Analogicos/Ejemplo laplace RC.xopp",
-    "Apuntes/Sistemas de com Analogicos/TRANSDUCTORES.md",
-    "Apuntes/Sistemas de com Analogicos/POTENCIA ACÚSTICA(pendiente).md",
-    "Apuntes/Sistemas de com Analogicos/Audio Analógico.md",
     "Apuntes/Intrumentacion/La instrumentacion se encarga de del procesamiento y acondicionamiento de señales.md",
     "Apuntes/Pasted image 20260824125047.png",
     "Apuntes/Pasted image 20260824125040.png"
