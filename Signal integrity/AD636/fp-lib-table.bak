@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "AD636") (type "KiCad") (uri "/home/kevin/Documents/XORUNALNOTES/Signal integrity/AD636.pretty") (options "") (descr ""))
+	(lib (name "AD633ANZ") (type "KiCad") (uri "${KIPRJMOD}/Lib/AD633ANZ.pretty") (options "") (descr ""))
+	(lib (name "AD633ANZ") (type "KiCad") (uri "${KIPRJMOD}/Lib/AD633ANZ.pretty") (options "") (descr ""))
+	(lib (name "AD633ANZ") (type "KiCad") (uri "${KIPRJMOD}/Lib/AD633ANZ.pretty") (options "") (descr ""))
+)
